@@ -5,4 +5,24 @@
     font-family: 'Roboto', sans-serif;
     color: #1c1c1c;
 }
+
+.total-points {
+    display: flex;
+    border: 2px solid #1c1c1c;
+    margin: 24px 32px 0px 32px;
+    font-size: 1.5rem;
+}
+
+.total-points__label {
+    background-color: #a9a9a9;
+    flex: 1;
+    padding: 12px;
+    font-weight: bold;
+    border-right: 2px solid #1c1c1c;
+}
+
+.total-points__number {
+    padding: 12px;
+    width: 90px;
+    text-align: center;
 }

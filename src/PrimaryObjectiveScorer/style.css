@@ -1,0 +1,44 @@
+.PrimaryObjectiveScorer {
+    padding: 12px 0;
+}
+
+.RoundScorer {
+    display: flex;
+    margin-bottom: 8px;
+}
+
+.RoundScorer__element {
+    padding: 8px;
+    border: 2px solid #1c1c1c;
+}
+
+.RoundScorer__element:not(:first-child) {
+    border-left: none;
+}
+
+.RoundScorer__title {
+    background-color: #a9a9a9;
+    font-weight: bold;
+    flex: 1;
+}
+
+.RoundScorer__points {
+    width: 18px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.RoundScorer__points:hover {
+    width: 18px;
+    text-align: center;
+    cursor: pointer;
+    background-color: #d3d3d3;
+}
+
+.RoundScorer__points--active {
+    background-color: #4ca15a;
+}
+
+.RoundScorer__points--active:hover {
+    background-color: #5aad68;
+}
