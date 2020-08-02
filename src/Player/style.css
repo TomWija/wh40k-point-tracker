@@ -1,6 +1,17 @@
 .Player {
-    display: flex;
+    display: none;
     flex-direction: column;
     margin: 16px;
-    width: 50%;
+    width: 100%;
+}
+
+.Player--visible {
+    display: flex;
+}
+
+@media only screen and (min-width : 1000px) {
+    .Player {
+        display: flex;
+        width: 50%;
+    }
 }

@@ -1,9 +1,19 @@
 .App {
     display: flex;
+    flex-direction: column;
     max-width: 1200px;
     margin: auto;
     font-family: 'Roboto', sans-serif;
     color: #1c1c1c;
+}
+
+.App__switch-player-button {
+    padding: 12px;
+    margin: 0 16px;
+}
+
+.App__players {
+    display: flex;
 }
 
 .total-points {
@@ -25,4 +35,10 @@
     padding: 12px;
     width: 90px;
     text-align: center;
+}
+
+@media only screen and (min-width : 1000px) {
+    .App__switch-player-button {
+        display: none;
+    }
 }
