@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wh40k-point-tracker/static/css/main.98b7eb4b.chunk.css",
+    "main.js": "/wh40k-point-tracker/static/js/main.1fe855e1.chunk.js",
+    "main.js.map": "/wh40k-point-tracker/static/js/main.1fe855e1.chunk.js.map",
+    "runtime-main.js": "/wh40k-point-tracker/static/js/runtime-main.4a24673b.js",
+    "runtime-main.js.map": "/wh40k-point-tracker/static/js/runtime-main.4a24673b.js.map",
+    "static/js/2.329e051f.chunk.js": "/wh40k-point-tracker/static/js/2.329e051f.chunk.js",
+    "static/js/2.329e051f.chunk.js.map": "/wh40k-point-tracker/static/js/2.329e051f.chunk.js.map",
+    "index.html": "/wh40k-point-tracker/index.html",
+    "precache-manifest.b1f04582fbf22a57afef142e306f3efb.js": "/wh40k-point-tracker/precache-manifest.b1f04582fbf22a57afef142e306f3efb.js",
+    "service-worker.js": "/wh40k-point-tracker/service-worker.js",
+    "static/css/main.98b7eb4b.chunk.css.map": "/wh40k-point-tracker/static/css/main.98b7eb4b.chunk.css.map",
+    "static/js/2.329e051f.chunk.js.LICENSE.txt": "/wh40k-point-tracker/static/js/2.329e051f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a24673b.js",
+    "static/js/2.329e051f.chunk.js",
+    "static/css/main.98b7eb4b.chunk.css",
+    "static/js/main.1fe855e1.chunk.js"
+  ]
+}
