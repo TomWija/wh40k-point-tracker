@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0beb9d3b1a49ec0c21a1483933ee97aa",
+    "revision": "3e47b52f04268b07ef597c3bded6f887",
     "url": "/wh40k-point-tracker/index.html"
   },
   {
-    "revision": "66f7ad44bca1577656db",
-    "url": "/wh40k-point-tracker/static/css/main.55861090.chunk.css"
+    "revision": "c9f4b7224da2542568c4",
+    "url": "/wh40k-point-tracker/static/css/main.fbeae612.chunk.css"
   },
   {
     "revision": "2ceeb8b65cde11406b57",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wh40k-point-tracker/static/js/2.79827964.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66f7ad44bca1577656db",
+    "revision": "c9f4b7224da2542568c4",
     "url": "/wh40k-point-tracker/static/js/main.47946428.chunk.js"
   },
   {
