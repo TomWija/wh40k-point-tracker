@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wh40k-point-tracker/precache-manifest.b1f04582fbf22a57afef142e306f3efb.js"
+  "/wh40k-point-tracker/precache-manifest.21722d4ab2b342ef9fba9fd028547431.js"
 );
 
 self.addEventListener('message', (event) => {
