@@ -20,7 +20,7 @@
     display: flex;
     border: 2px solid #1c1c1c;
     margin: 24px 32px 0px 32px;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 .total-points__label {
@@ -40,5 +40,9 @@
 @media only screen and (min-width : 1000px) {
     .App__switch-player-button {
         display: none;
+    }
+
+    .total-points {
+        font-size: 1.5rem;
     }
 }
