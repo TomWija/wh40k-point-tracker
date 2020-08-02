@@ -1,7 +1,7 @@
-import React from 'react';
-import Player from './Player/index';
+import React from "react";
+import Player from "./Player/index";
 
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
