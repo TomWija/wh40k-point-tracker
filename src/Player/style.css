@@ -1,0 +1,6 @@
+.Player {
+    display: flex;
+    flex-direction: column;
+    margin: 16px;
+    width: 50%;
+}
