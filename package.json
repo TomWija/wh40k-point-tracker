@@ -1,6 +1,6 @@
 {
   "name": "wh40k-point-tracker",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "homepage": "https://TomWija.github.io/wh40k-point-tracker",
   "dependencies": {
