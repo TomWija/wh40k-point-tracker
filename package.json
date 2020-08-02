@@ -11,6 +11,11 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -31,8 +36,11 @@
     ]
   },
   "devDependencies": {
+    "@commitlint/cli": "^9.1.1",
+    "@commitlint/config-conventional": "^9.1.1",
     "eslint": "^7.6.0",
     "eslint-plugin-react": "^7.20.5",
+    "husky": "^4.2.5",
     "typescript": "^3.9.7"
   }
 }
