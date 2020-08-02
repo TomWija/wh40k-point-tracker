@@ -1,0 +1,41 @@
+.SecondaryObjectiveTally {
+    margin: 12px 0;
+    display: grid;
+    grid-template-columns: 1fr auto;
+}
+
+.SecondaryObjectiveTally__point-wrapper {
+    display: grid;
+    grid-template-columns: repeat(5, 30px);
+    border-bottom: 2px solid #1c1c1c;
+}
+
+.SecondaryObjectiveTally__point {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 2px solid #1c1c1c;
+    border-top: 2px solid #1c1c1c;
+    text-align: center;
+    cursor: pointer;
+}
+
+.SecondaryObjectiveTally__point:hover {
+    background-color: #d3d3d3;
+}
+
+.SecondaryObjectiveTally__point--selected {
+    background-color: #4ca15a;
+}
+
+.SecondaryObjectiveTally__point--selected:hover {
+    background-color: #5aad68;
+}
+
+.SecondaryObjectiveTally__point--tallied {
+    background-color: #c9e8ce;
+}
+
+.SecondaryObjectiveTally__point--tallied:hover {
+    background-color: #99d2a3;
+}
